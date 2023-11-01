@@ -30,3 +30,5 @@ var sortedArrayInDesc:string[]=fruits.sort((first,second)=>{
 });
 console.log(sortedArrayInDesc,"Sorted");
 
+
+
