@@ -1,6 +1,6 @@
 "use strict";
 //To capitalize the first letter of a string 
-//eg: varsha --- Varsha
+//eg: moniga --- Moniga
 function capitalizeFirstLetter(stringValue) {
     //take the first letter of string and then converts it to uppercase using the method
     let firstLetter = stringValue[0].toUpperCase();
